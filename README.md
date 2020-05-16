@@ -9,7 +9,6 @@ This Repository consists of sample_datasets that can be used for practise and ex
 2. Autompg data set
 	* [csv](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/auto-mpg.csv)
 	* [original link](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
-	* [no-missing-value](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/auto-mpg-no-missing-value.csv)
 	
 3. Diabetes data set
 	* [csv](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/diabetes.csv)
