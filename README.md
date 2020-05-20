@@ -21,3 +21,7 @@ This Repository consists of sample_datasets that can be used for practise and ex
 5.  IMDB movie metadata data set
 	* [csv](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/movie_metadata.csv)
 	* [original link](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset) 
+
+6. Boston House Prices
+	* [csv](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/boston_housing.csv)
+	* [origina link](https://www.kaggle.com/vikrishnan/boston-house-prices/data)
