@@ -25,3 +25,7 @@ This Repository consists of sample_datasets that can be used for practise and ex
 6. Boston House Prices
 	* [csv](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/boston_housing.csv)
 	* [origina link](https://www.kaggle.com/vikrishnan/boston-house-prices/data)
+
+7. Automobile dataset
+	* [csv](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Automobile.csv)
+	* [origina link](https://www.kaggle.com/toramky/automobile-dataset)
