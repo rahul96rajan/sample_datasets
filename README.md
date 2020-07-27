@@ -17,12 +17,15 @@ df.info()
 
 ## Data sets
 
+
 ### Regression
 * [Autompg](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/auto-mpg.csv)
 * [Boston House Prices](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/boston_housing.csv)
 * [Automobile Prices](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Automobile.csv)
 * [Automobile Prices - Mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Automobile_mini.csv)
 * [Weather - Conditions in World War Two](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Weather.csv)
+* [Airline Passenger](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/airline_passengers.csv)
+
 
 ### Classification
 * [Iris](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv)
@@ -31,8 +34,11 @@ df.info()
 * [Titanic](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/titanic.csv)
 * [IMDB movie rating](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/movie_metadata.csv)
 * [Shopping Spending Score](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/shopping_data.csv)
+* [Wine Quality](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/winequality.csv)
 
 
 ### Clustering 
 * [Iris](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv)
 * [Store Optimization (Market Basket Optimization) - EDA](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Market_Basket_Optimisation.csv)
+* [Sonar Rock Mines - EDA](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/sonar_mine.csv)
+
