@@ -1,31 +1,31 @@
-# sample_datasets
-This Repository consists of sample_datasets that can be used for practise and exercises.
+# Datasets for practice
+This Repository consists of sample datasets that can be used for practise and exercises.
 
-## Data sets 
-1. Iris data set
-	* [csv](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv)
-	* [original link](https://archive.ics.uci.edu/ml/datasets/iris)
+*To import the dataframe directly via link*: 
+1. Click on link besides the desired dataset.
+    Taking `Iris` dataset for instance.
+2. Copy the URL of the tab opened.
+    For `Iris`, https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv
+3. Use the link instead of mentioning file path in code, like in the code snippet below.
+```sh
+import pandas as pd
 
-2. Autompg data set
-	* [csv](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/auto-mpg.csv)
-	* [original link](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
-	
-3. Diabetes data set
-	* [csv](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/diabetes.csv)
-	* [original link](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+df = pd.read_csv('https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv')
+df.info()
+```
 
-4. Titanic Mini Version data set
-	* [csv](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Titanic_Smaller_Ver.csv)
-	* original link
 
-5.  IMDB movie metadata data set
-	* [csv](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/movie_metadata.csv)
-	* [original link](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset) 
+## Data sets
+### Regression
+* [Autompg](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/auto-mpg.csv)
+* [Boston House Prices](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/boston_housing.csv)
+* [Car Prices](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Automobile.csv)
+### Classification
+* [Iris](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv)
+* [Diabetes](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/diabetes.csv)
+* [Titanic-Mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Titanic_Smaller_Ver.csv)
+* [Titanic](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/titanic.csv)
+* [IMDB movie rating](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/movie_metadata.csv)
 
-6. Boston House Prices
-	* [csv](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/boston_housing.csv)
-	* [original link](https://www.kaggle.com/vikrishnan/boston-house-prices/data)
-
-7. Automobile dataset
-	* [csv](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Automobile.csv)
-	* [original link](https://www.kaggle.com/toramky/automobile-dataset)
+### Clustering 
+* [Iris](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv)
