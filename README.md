@@ -6,7 +6,7 @@ This Repository consists of sample datasets that can be used for practise and ex
     Taking `Iris` dataset for instance.
 2. Copy the URL of the tab opened.
     For `Iris`,  https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv
-3. Use the link instead of mentioning file path in code, like in the code snippet below.
+3. Use the link instead of mentioning file path in code use raw csv link, like in the code snippet below.
 ```sh
 import pandas as pd
 
@@ -25,6 +25,7 @@ df.info()
 * [Automobile Prices - Mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Automobile_mini.csv)
 * [Weather - Conditions in World War Two](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Weather.csv)
 * [Airline Passenger](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/airline_passengers.csv)
+* [Petrol Consumption](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/petrol_consumption.csv)
 
 
 ### Classification
@@ -37,6 +38,8 @@ df.info()
 * [Wine Quality](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/winequality.csv)
 * [Bill Authentication/Bank Note Authentication](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/bank_bill_authentication.csv)
 * [Weather Status](https://github.com/rahul96rajan/sample_datasets/blob/master/weather_mini.csv)
+* [Petrol Consumption](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/petrol_consumption.csv)
+
 
 ### Clustering 
 * [Iris](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv)
