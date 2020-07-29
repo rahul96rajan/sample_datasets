@@ -97,7 +97,7 @@ df.head()
 * [Weather Status](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/weather_mini.csv)
 * [Petrol Consumption](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/petrol_consumption.csv)
 * [Spooky Author Identification](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/spooky_author_identification.csv) - NLP Problem
-
+* [Balance Scale](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/balance.csv)
 
 ### Clustering 
 * [Iris](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv)
