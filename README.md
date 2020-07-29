@@ -95,7 +95,7 @@ df.head()
 * [Bill Authentication/Bank Note Authentication](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/bank_bill_authentication.csv)
 * [Weather Status](https://github.com/rahul96rajan/sample_datasets/blob/master/weather_mini.csv)
 * [Petrol Consumption](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/petrol_consumption.csv)
-* [Spooky Author Identification](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Spooky_Author_Identification.csv) - NLP Problem
+* [Spooky Author Identification](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/spooky_author_identification.csv) - NLP Problem
 
 
 ### Clustering 
