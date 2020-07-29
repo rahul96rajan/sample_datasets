@@ -45,4 +45,4 @@ df.info()
 * [Iris](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv)
 * [Store Optimization (Market Basket Optimization) - EDA](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Market_Basket_Optimisation.csv)
 * [Sonar Rock Mines - EDA](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/sonar_mine.csv)
-
+* [Credit Card usage behaviour](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/credit_card.csv)
