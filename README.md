@@ -82,7 +82,7 @@ df.head()
 * [Weather - Conditions in World War Two](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Weather.csv)
 * [Airline Passenger](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/airline_passengers.csv)
 * [Petrol Consumption](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/petrol_consumption.csv)
-
+* [Salary data - Mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/salary_data.csv)
 
 ### Classification
 * [Iris](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv)
@@ -95,6 +95,7 @@ df.head()
 * [Bill Authentication/Bank Note Authentication](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/bank_bill_authentication.csv)
 * [Weather Status](https://github.com/rahul96rajan/sample_datasets/blob/master/weather_mini.csv)
 * [Petrol Consumption](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/petrol_consumption.csv)
+* [Spooky Author Identification](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Spooky_Author_Identification.csv) - NLP Problem
 
 
 ### Clustering 
