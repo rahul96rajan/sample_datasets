@@ -35,6 +35,7 @@ df.info()
 * [IMDB movie rating](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/movie_metadata.csv)
 * [Shopping Spending Score](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/shopping_data.csv)
 * [Wine Quality](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/winequality.csv)
+* [Bill Authentication/Bank Note Authentication](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/bank_bill_authentication.csv)
 
 
 ### Clustering 
