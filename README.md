@@ -11,9 +11,9 @@ This Repository consists of sample datasets that can be used for practise and ex
 import pandas as pd
 
 df = pd.read_csv('https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv')
-df.info()
+df.head()
 ```
-<div>
+
 <table class="dataframe" border="1">
   <thead>
     <tr>
@@ -68,7 +68,7 @@ df.info()
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 ## Data sets
