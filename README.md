@@ -1,7 +1,7 @@
 # Datasets for practice
 This Repository consists of sample datasets that can be used for practise and exercises.
 
-To benefit the maximum out of this repo, we should leverage the feature that is present in Pandas `0.19.2` and up, that is we can direclty pass the `URL` to the raw csv file in `pandas.read_csv()` method.
+To benefit the maximum out of this repo, we should leverage the reading csv from raw csv `URL` feature that is present in Pandas `0.19.2` and up, in other words we can direclty pass the `URL` to the raw csv file in `pandas.read_csv()` method.
 
 *To import the dataset directly via URL*: 
 1. Click on link besides the desired dataset.
