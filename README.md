@@ -108,5 +108,6 @@ df.head()
 ### Clustering 
 * [Iris](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv)
 * [Credit Card usage behaviour](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/credit_card.csv)
+* [Wholesale Customers](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Wholesale_customers.csv)
 * [Sonar Rock Mines - EDA](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/sonar_mine.csv)
 * [Store Optimization (Market Basket Optimization) - EDA](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Market_Basket_Optimisation.csv)
