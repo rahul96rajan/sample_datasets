@@ -10,7 +10,8 @@ To benefit the maximum out of this repo, we should leverage the reading csv from
     For `Iris`,  https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv
 3. Use the link instead of mentioning file path in code use raw csv link, like in the code snippet below.
 </br>
-```
+
+```python
 import pandas as pd
 
 df = pd.read_csv('https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv')
