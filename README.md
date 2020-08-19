@@ -4,7 +4,7 @@ This Repository consists of sample datasets that can be used for practise and ex
 To benefit the maximum out of this repo, we should leverage the reading csv from raw csv `URL` feature that is present in Pandas `0.19.2` and up, in other words we can direclty pass the `URL` to the raw csv file in `pandas.read_csv()` method.
 
 *To import the dataset directly via URL*: 
-1. Right click on link besides the desired dataset.
+1. Right click on hyperlink of desired dataset.
 2. Select `Copy Link Location`.
 3. Use this copied URL instead of mentioning file path in `read_csv()`.
 
