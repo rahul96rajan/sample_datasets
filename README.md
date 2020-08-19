@@ -4,13 +4,11 @@ This Repository consists of sample datasets that can be used for practise and ex
 To benefit the maximum out of this repo, we should leverage the reading csv from raw csv `URL` feature that is present in Pandas `0.19.2` and up, in other words we can direclty pass the `URL` to the raw csv file in `pandas.read_csv()` method.
 
 *To import the dataset directly via URL*: 
-1. Click on link besides the desired dataset.
-    Taking `Iris` dataset for instance.
-2. Copy the URL of the tab opened.
-    For `Iris`,  https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv
-3. Use the link instead of mentioning file path in code use raw csv link, like in the code snippet below.
+1. Right click on link besides the desired dataset.
+2. Select `Copy Link Location`.
+3. Use this copied URL instead of mentioning file path in `read_csv()`.
 
-
+<ins>Example :</ins>
 ```python
 import pandas as pd
 
