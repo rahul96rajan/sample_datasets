@@ -46,8 +46,8 @@ df.head()
 ### Classification
 * [Iris](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv)
 * [Balance Scale](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/balance.csv)
-* [Diabetes](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/diabetes_mini.csv)
-* [Diabetes mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/diabetes.csv) - *glucose and bloodpressure only*
+* [Diabetes](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/diabetes.csv)
+* [Diabetes mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/diabetes_mini.csv) - *glucose and bloodpressure only*
 * [Titanic-Mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Titanic_Smaller_Ver.csv)
 * [Breast Cancer](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/breast_cancer.csv)
 * [Petrol Consumption](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/petrol_consumption.csv)
