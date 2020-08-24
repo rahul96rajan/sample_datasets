@@ -47,18 +47,18 @@ df.head()
 * [Iris](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv)
 * [Balance Scale](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/balance.csv)
 * [Diabetes](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/diabetes_mini.csv)
-* [Diabetes mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/diabetes.csv) - glucose and bloodpressure only
+* [Diabetes mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/diabetes.csv) - *glucose and bloodpressure only*
 * [Titanic-Mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Titanic_Smaller_Ver.csv)
 * [Breast Cancer](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/breast_cancer.csv)
 * [Petrol Consumption](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/petrol_consumption.csv)
 * [Titanic](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/titanic.csv)
-* [Wine Quality](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/winequality-red.csv) - Only Red Wine
-* [Wine Quality](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/winequality.csv) - Red and White Wine
+* [Wine Quality](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/winequality-red.csv) - *Only Red Wine*
+* [Wine Quality](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/winequality.csv) - *Red and White Wine*
 * [IMDB movie rating](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/movie_metadata.csv)
 * [Shopping Spending Score](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/shopping_data.csv)
 * [Bill Authentication/Bank Note Authentication](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/bank_bill_authentication.csv)
 * [Weather Status](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/weather_mini.csv)
-* [Spooky Author Identification](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/spooky_author_identification.csv) - NLP Problem
+* [Spooky Author Identification](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/spooky_author_identification.csv) - *NLP Problem*
 
 
 ### Clustering 
