@@ -33,11 +33,11 @@ df.head()
 * [Salary data - Mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/salary_data.csv)
 * [Petrol Consumption](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/petrol_consumption.csv)
 * [Airline Passenger](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/airline_passengers.csv)
-* [Automobile Prices - Mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Automobile_mini.csv)
+* [Automobile Prices - Mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Automobile_mini.csv) - *less features and records than `Automobile Prices`*
+* [Automobile Prices](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Automobile.csv)
 * [Boston House Prices](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/boston_housing.csv)
 * [California Housing Data (1990)](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/cal_housing.csv)
 * [Autompg](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/auto-mpg.csv)
-* [Automobile Prices](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Automobile.csv)
 * [Weather - Conditions in World War Two](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Weather.csv)
 
 
@@ -46,12 +46,13 @@ df.head()
 ### Classification
 * [Iris](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/iris.csv)
 * [Balance Scale](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/balance.csv)
-* [Diabetes](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/diabetes.csv)
 * [Diabetes mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/diabetes_mini.csv) - *glucose and bloodpressure only*
-* [Titanic-Mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Titanic_Smaller_Ver.csv)
+* [Diabetes](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/diabetes.csv)
+* [Titanic-Mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Titanic_Smaller_Ver.csv) - *less records than `Titanic`*
+* [Titanic](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/titanic.csv)
 * [Breast Cancer](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/breast_cancer.csv)
 * [Petrol Consumption](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/petrol_consumption.csv)
-* [Titanic](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/titanic.csv)
+
 * [Wine Quality](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/winequality-red.csv) - *Only Red Wine*
 * [Wine Quality](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/winequality.csv) - *Red and White Wine*
 * [IMDB movie rating](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/movie_metadata.csv)
