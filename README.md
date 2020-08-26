@@ -52,6 +52,7 @@ df.head()
 * [Titanic](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/titanic.csv)
 * [Breast Cancer](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/breast_cancer.csv)
 * [Petrol Consumption](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/petrol_consumption.csv)
+* [Wine Type](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/wine_cultivar.csv) - *Classification Based on 'type of cultivar'*
 * [Wine Quality](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/winequality-red.csv) - *Only Red Wine*
 * [Wine Quality](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/winequality.csv) - *Red and White Wine*
 * [IMDB movie rating](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/movie_metadata.csv)
