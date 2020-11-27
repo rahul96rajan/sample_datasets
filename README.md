@@ -60,8 +60,8 @@ df.head()
 * [Shopping Spending Score](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/shopping_data.csv)
 * [Bill Authentication/Bank Note Authentication](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/bank_bill_authentication.csv)
 * [Weather Status](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/weather_mini.csv)
-* [SMS Spam Ham](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/sms_spam.csv)
-* [Restaurant Customer Reviews](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/restaurant_review.tsv)
+* [SMS Spam Ham](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/sms_spam.csv) - *NLP Problem*
+* [Restaurant Customer Reviews](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/restaurant_review.tsv) - *NLP Problem*
 * [Spooky Author Identification](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/spooky_author_identification.csv) - *NLP Problem*
 
 
