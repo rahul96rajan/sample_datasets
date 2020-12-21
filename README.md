@@ -51,6 +51,7 @@ df.head()
 * [Titanic-Mini](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/Titanic_Smaller_Ver.csv) - *less records than `Titanic`*
 * [Titanic](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/titanic.csv)
 * [Breast Cancer](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/breast_cancer.csv)
+* [Pokemon](https://github.com/rahul96rajan/sample_datasets/blob/master/pokemon.csv)
 * [Loan Status](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/loan_status.csv)
 * [Petrol Consumption](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/petrol_consumption.csv)
 * [Wine Type](https://raw.githubusercontent.com/rahul96rajan/sample_datasets/master/wine_cultivar.csv) - *Classification Based on 'type of cultivar'*
